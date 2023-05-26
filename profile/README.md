@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://yourdomain.com/lepravda-group-logo.png" alt="LePravda Group Logo" width="200">
+  <img src="https://i.ibb.co/8KsN3YN/koel-logo.png" alt="LePravda Group Logo" width="200">
 </p>
 
 ---
