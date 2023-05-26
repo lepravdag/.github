@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/8KsN3YN/koel-logo.png" alt="LePravda Group Logo" width="200">
-</p>
-
----
-
 <div align="center">
+  <img src="https://i.ibb.co/8KsN3YN/koel-logo.png" alt="LePravda Group Logo" width="200">
   <p style="font-size: 24px; color: #888888;">Pequeño grupo de desarrollo que se dedica a la creación y diseño de proyectos tecnológicos innovadores.</p>
 </div>
 
