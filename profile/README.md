@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://yourdomain.com/lepravda-group-logo.png" alt="LePravda Group Logo" width="200">
+</p>
+
+---
+
 ## 🚀 Nuestros servicios
 
 En LePravda Group nos apasiona la tecnología y nos esforzamos por desarrollar soluciones creativas y eficientes para nuestros clientes. Ofrecemos una amplia gama de servicios que incluyen:
