@@ -1,13 +1,9 @@
-<div align="center">
-  <h1 style="font-size: 48px; font-weight: bold; color: #FF6D00;">LePravda Group</h1>
-  <p style="font-size: 24px; color: #888888;">Pequeño grupo de desarrollo que se dedica a la creación y diseño de proyectos tecnológicos innovadores.</p>
-</div>
-
 ---
 
 <p align="center">
   <img src="https://i.ibb.co/8KsN3YN/koel-logo.png" alt="LePravda Group Logo" width="200">
 </p>
+  <p style="font-size: 24px; color: #888888;">Pequeño grupo de desarrollo que se dedica a la creación y diseño de proyectos tecnológicos innovadores.</p>
 
 ---
 
